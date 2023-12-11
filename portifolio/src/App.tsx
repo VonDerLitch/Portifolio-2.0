@@ -1,6 +1,8 @@
 import './styles/components/app.sass';
 import MainContent from "./components/MainContent";
-import Sidebar from './components/sidebar';
+import Sidebar from './components/Sidebar';
+
+
 
 function App() {
   
@@ -12,8 +14,10 @@ function App() {
           <Sidebar></Sidebar>
           <MainContent></MainContent>
       </div>
+
      
     </>
+    
   )
 }
 
