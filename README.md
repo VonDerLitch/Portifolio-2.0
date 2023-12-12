@@ -25,12 +25,12 @@ Visual Code Studio
 <p>npm install</p>
 
 
-<p>No package.json</p>
+<h3>No package.json</h3>
 <p>"predeploy": "npm run build",</p>
 <p>"deploy": "gh-pages -d dist"</p>
 <p>"homepage": "VonDerLitch.github.io/Portifolio-2.0"</p>
 
-<p>no vite.config.ts</p>
+<h3>no vite.config.ts</h3>
 <p>base: "/Portifolio-2.0",</p>
 
 
