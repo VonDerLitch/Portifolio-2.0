@@ -7,7 +7,7 @@
 
 ## Funcionalidades
 
-:heavy_check_mark: Botão de download  
+:heavy_check_mark: Botão de download PDF
 
 :heavy_check_mark: Layout
 
