@@ -30,7 +30,7 @@ Visual Code Studio
 <p>"deploy": "gh-pages -d dist"</p>
 <p>"homepage": "VonDerLitch.github.io/Portifolio-2.0"</p>
 
-<h3>no vite.config.ts</h3>
+<h3>No vite.config.ts</h3>
 <p>base: "/Portifolio-2.0",</p>
 
 
