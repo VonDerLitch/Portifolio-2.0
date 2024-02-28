@@ -1,6 +1,8 @@
 import terminal6 from '../img/terminal6.jpg'
 import terminal7 from '../img/terminal7.jpg'
 import terminal8 from '../img/terminal8.jpg'
+import terminal9 from '../img/terminal9.jpg'
+
 
 import '../styles/components/projectscontainer.sass'
 
@@ -17,6 +19,9 @@ const ProjectsContainer = () => {
         <h2>AM_Audience</h2>
         <p>Um projeto feito com Java, Spring Boot para o Back-end  e Angular para o front end, utilizando o bucket da google e a API Speech to text, um projeto bastante ousado onde eu e mais um Dev conseguimos um resultado bastante satisfatório. </p>
         <img src={terminal8} alt="" />
+        <h2>Project Manager</h2>
+        <p>Aqui tive o prazer de participar e construir um sistema que permite os colaboradores gerenciem projetos e atividades de maneira centralizada, garantindo eficiência e praticidade. Optamos pelo robusto Framework Django para o back-end, proporcionando segurança e integridade aos dados armazenados em um banco relacional, e para o front-end optamos por utilizar HTML, CSS e JavaScript. As principais funcionalidades dele na versão Homologação 1.0 é de Modelagem de Banco de dados, administração do banco via Django, gestão de projetos diretamente no site, inserção automatizada de informações em bancos de dados, dashboard com indicadores para análise de dados, além de um botão de pesquisa inteligente, que não apenas permite procurar pelo nome do projeto, mas também pelo dono do projeto. Temos grandes ideias para esse projeto, vale apena acompanhar.</p>
+        <img src={terminal9} alt="" />
         <br />
         <br />
         <a href="https://github.com/VonDerLitch?tab=repositories" target="_blanc" className="btn">Ver Projetos</a>

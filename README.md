@@ -22,7 +22,12 @@ Visual Code Studio
 
 <p>npm install react-scripts --save</p>
 <p>npm i gh-pages --save-dev</p>
+
+## Ambiente
 <p>npm install</p>
+<p>npm install -D sass</p>
+<p>npm install react-icons </p>
+
 
 
 <h3>No package.json</h3>
