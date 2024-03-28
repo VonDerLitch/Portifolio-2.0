@@ -3,7 +3,7 @@ import Avatar from '../img/IMG_3613.png';
 import '../styles/components/sidebar.sass';
 import SocialNetworks from "./SocialNetworks";
 import InformationContainer from "./InformationContainer";
-import curricolo from '../components/currículo Canoas.docx.pdf'
+import curricolo from '../components/currículo P.pdf'
 
 const Sidebar = () => {
     return (

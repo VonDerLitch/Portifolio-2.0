@@ -26,7 +26,7 @@ const InformationContainer = () => {
             <AiFillEnvironment id="pin-icon" />
             <div>
                 <h3>Localização</h3>
-                <p>Canoas - RS</p>
+                <p>Porto Alegre - RS</p>
             </div>
         </div>
 
